@@ -1,1 +1,6 @@
 bob 
+jim
+jane
+sarah
+caroline
+thomas
