@@ -4,3 +4,6 @@ jane
 sarah
 caroline
 thomas
+kate
+eugenie
+johnatan
